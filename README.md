@@ -3,7 +3,7 @@
 
 Sauðakodi fyrir dæmi 1:
 
-1. stylla af motor 1 og 2.
+1. stilla af motor 1 og 2.
 
 2. keyra motor 1 og 2 áfram 2000 millisekundur.
 
