@@ -42,3 +42,51 @@
 9. áfram fimm bil
 
 10. til baka í upphafstöðu
+
+## Sauðakóði fyrir dæmi 3:
+
+1. áfram 
+
+2. hægri begja
+
+3. áfram  
+
+4. vinstri begja
+
+5. áfram
+
+6. vinstri begja
+
+7. áfram 
+
+8. hægri begja
+
+9. áfram
+
+10. hægri begja
+
+11. áfram 
+
+12. vinstri begja
+
+13. áfram 
+
+14. hægri begja
+
+15. áfram
+
+16. hægri begja 
+
+17. áfram 
+
+18. vinstri begja 
+
+áfram
+
+20. vinstri begja 
+
+21.áfram
+
+22.hægri begja;
+
+23.áfram 
