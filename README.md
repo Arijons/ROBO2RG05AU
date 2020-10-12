@@ -81,7 +81,7 @@
 
 18. vinstri begja 
 
-áfram
+19.áfram
 
 20. vinstri begja 
 
