@@ -7,19 +7,19 @@ Lúbba að eylifu
     
       Hreift áfram
     
-    Annars, ýtt var niður
+    Annars, ef ýtt var niður
     
-      verið að bakka
+      bakka
     
     Annars ef ýtt til hægri
   
       Beygt til hægri
      
-    Annars ýtt til vinstri
+    Annars ef ýtt til vinstri
     
       beygt til vinstri
      
-    Annars, ekki æytt á neitt
+    Annars, ekki ýtt á neitt
  
       Stöðvar
      
