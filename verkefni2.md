@@ -34,8 +34,13 @@ Lúbba að eylifu
     Annars ef ýtt á R1
     
      að láta loka kló 
-    
+     
+    Annars ef ýtt á X
+     
+     þá farið úr lúbbu með break
+     
     Annars, ekki ýtt á neitt
  
     Stöðvar
+    
      
